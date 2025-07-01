@@ -87,3 +87,4 @@ bert_word
 --knn_neighbors
 4
 ```
+Of course you can change and fine-tune the hyperparameters such as lr_other, aug_ratio, weight_decay_bert, nce_weight, knn_neighbors and so on.
