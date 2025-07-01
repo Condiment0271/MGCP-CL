@@ -12,6 +12,6 @@ cuda==12.1
 Transformer==4.37.2
 
 
-more dependencies can follow the [requirements.txt](./requirements.txt)
+More dependencies can follow the [requirements.txt](./requirements.txt).
 
 ## Dataset
