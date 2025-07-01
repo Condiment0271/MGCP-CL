@@ -8,6 +8,6 @@ Pytorch==2.2.0
 cuda==12.1
 Transformer==4.37.2
 
-more dependencies can follow the [requirement.txt](./pipeline-img/MGCP-CL.png)
+more dependencies can follow the [requirement.txt](./requirement.txt)
 
 ## Dataset
