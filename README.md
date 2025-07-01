@@ -23,6 +23,8 @@ First you need to create necessary folds for the datasets.
 * `./save/mosi`
 * `./save/mosei`
 
+After the preparation you can get the data from links.
+
 | Dataset | Link                                                        |
 | ------- | ------------------------------------------------------------ |
 | MOSI    | *[GoogleDrive](https://drive.google.com/file/d/172iNTfiJq4ChN8XyrwIW6NFHVgtYgOVt/view?usp=sharing)* |
